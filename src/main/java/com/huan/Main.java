@@ -6,10 +6,10 @@ public class Main {
     public static void main(String[] args) {
         // Press Alt+Enter with your caret at the highlighted text to see how
         // IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
-        System.out.printf("hot-fix");
-        System.out.printf("master");
-        System.out.printf("hot-fix-test");
-        System.out.printf("hello,world");
+        System.out.print("Hello and welcome!");
+        System.out.print("hot-fix");
+        System.out.print("master");
+        System.out.print("hot-fix-test");
+        System.out.print("hello,world");
     }
 }
